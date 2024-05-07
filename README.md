@@ -61,6 +61,10 @@ where `<ASIN>` is the book ID you want to use.
 It will take a while. Basically the code performs the following steps:
 1. Download the original audio book file, remove the DRM using your Audible user credential, and save it as a `.mp4` file.
 > [!IMPORTANT]
+> Anti-Piracy Notice
+> 
+> Please only use these tools for gaining full access to your own ebooks for archiving/conversion/convenience. De-drmed ebooks should not be uploaded to open servers, torrents, or other methods of mass distribution. No help will be given to people doing such things. Authors, retailers and publishers all need to make a living, so that they can continue to produce books for us to read. Don’t be a parasite.
+> 
 > The converted `.mp4` file is only meant for your personal use. DO NOT distribute! After the code finish running, you should delete this file to avoid leaks.
 
 2. Extract the bookmarks you created for this book, specifically, the start and end time of each clip.
